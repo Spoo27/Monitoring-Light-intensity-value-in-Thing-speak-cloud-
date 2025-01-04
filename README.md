@@ -1,7 +1,7 @@
 ## Name :- V Spoorthi
 ## Register no :- 24007430
 
-# EXP NO 4:- Monitoring-Light-intensity-value-in-Thing-speak-cloud
+# EXP NO 4:- Monitoring Light intensity value in Thing speak cloud
 
 # AIM:
 To monitor the Light-intensity value in the Thing speak cloud using LDR sensor and ESP32 controller.
